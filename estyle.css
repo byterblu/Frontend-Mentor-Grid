@@ -46,9 +46,9 @@ body {
 
 
 .container-grid{
-    width: 80%;
+    width: 70%;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 80px;
     display: grid;
     gap: 20px;
     grid-template-columns: repeat(4,220px);
